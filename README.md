@@ -113,7 +113,7 @@ npm run dev
 ```
 
 Backend runs at:
-👉 [http://localhost:5000](http://localhost:5000)
+👉 [http://localhost:5000](http://localhost:5000) Vercel : https://lumibyte-seven.vercel.app/
 
 ---
 
@@ -139,7 +139,7 @@ npm start
 ```
 
 App runs at:
-👉 [http://localhost:3000](http://localhost:3000)
+👉 [http://localhost:3000](http://localhost:3000) Vercel Link : https://lumibyte-45rr.vercel.app/
 
 ---
 
