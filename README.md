@@ -1,7 +1,4 @@
-Understood — here is a **clean, professional, moderate-length README** (not too long, not too short).
-Perfect for GitHub, interviews, and assignment submission.
 
-Copy/paste into your **README.md**.
 
 ---
 
